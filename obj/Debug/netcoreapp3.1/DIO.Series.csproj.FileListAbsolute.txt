@@ -1,0 +1,55 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.exe
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.exe
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\dio-dotnet-poo-lab-2-master - Copia\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.exe
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.dll
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+G:\Bootcamps\DIO\dotnet\Cadastro-dotnet\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
